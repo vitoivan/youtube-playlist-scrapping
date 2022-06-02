@@ -17,7 +17,6 @@ itsdangerous==2.1.2
 Jinja2==3.1.2
 MarkupSafe==2.1.1
 outcome==1.1.0
-pipenv==2022.5.2
 platformdirs==2.5.2
 pycparser==2.21
 pyOpenSSL==22.0.0
