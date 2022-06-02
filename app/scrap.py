@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from app.configs import configs, selenium_options
 
-def get_playlist_data(url):
+def get_playlist_videos(url):
 
 	formatted_videos = []
 
